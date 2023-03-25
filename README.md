@@ -44,7 +44,7 @@ int myHeight = 175;
 // Double value
 double price = 9.99;
 // String value
-String name = "John Doe";
+String name = "Vignesh Veerasamy";
 // Bool value
 bool isActive = true;
 // Collection of whole number / integer
@@ -54,7 +54,7 @@ In Dart, you use the `var` keyword followed by the variable name and the data ty
 ```
 var age = 30; // integer
 var price = 9.99; // double
-var name = "John Doe"; // string
+var name = "Vignesh Veerasamy"; // string
 var isActive = true; // boolean
 var numbers = [1, 2, 3, 4, 5]; // list
 ```
