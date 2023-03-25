@@ -49,9 +49,9 @@ bool isActive = true;
 // Collection of whole number / integer
 List<int> numbers = [1, 2, 3, 4, 5];`
 In Dart, you use the `var` keyword followed by the variable name and the data type:
-`var age = 30; // integer
-var price = 9.99; // double
-var name = "John Doe"; // string
-var isActive = true; // boolean
-var numbers = [1, 2, 3, 4, 5]; // list`
+`var age = 30; // integer`
+`var price = 9.99; // double`
+`var name = "John Doe"; // string`
+`var isActive = true; // boolean`
+`var numbers = [1, 2, 3, 4, 5]; // list`
 In summary, variables in Dart are containers that hold values, and data types define the type of values that can be stored in a variable. By understanding the different data types in Dart, you can create variables that hold a wide range of values and use them in your Dart and Flutter applications.
